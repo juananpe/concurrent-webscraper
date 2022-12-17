@@ -1,0 +1,5 @@
+To get the IP of the LoadBalancer, use this command:
+
+`minikube service -n concurrent-scraper-context load-balancer --url`
+
+
